@@ -4,7 +4,7 @@
 
 作者github : https://github.com/LELEXIAOLL/
 
-版本            : V1.3.0
+版本            : V1.3.2
 
 使用教程：
 
